@@ -12,7 +12,7 @@ layout: default
   document.querySelector("body > div > h1:nth-child(1) > a").innerText = "Go back Home";
   function myFunction() {
     var words = ['Rock', 'Paper', 'Scissors'];
-    var word = words[Math.floor(Math.random() * words.length - 1)];
+    var word = words[Math.floor(Math.random() * words.length)];
     document.querySelector("body > div > h1:nth-child(1) > a").innerText = word;
   }
 </script>
