@@ -11,10 +11,8 @@ layout: default
 });
   document.querySelector("body > div > h1:nth-child(1) > a").innerText = "Go back Home";
   function myFunction() {
-    var c="Rock";
-    var d="Paper";
-    var e="Scissors";
-    var thing = window['cde'.charAt(Math.floor(Math.random()*3)-1)];
-    document.querySelector("body > div > h1:nth-child(1) > a").innerText = thing;
+    var words = ['Rock', 'Paper', 'Scissors'];
+    var word = words[Math.floor(Math.random() * words.length - 1)];
+    document.querySelector("body > div > h1:nth-child(1) > a").innerText = word;
   }
 </script>
