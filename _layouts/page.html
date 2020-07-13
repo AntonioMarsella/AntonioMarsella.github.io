@@ -3,14 +3,13 @@ layout: default
 ---
 
 {{ content }}
-
+<button onclick="myFunction()">Try it</button>
 <script type="text/javascript">
   // Hack: Replace page-link with "Page Title"
   document.querySelectorAll(".markdown-body a[title]").forEach((a) => {
     a.innerText = a.title;
 });
   document.querySelector("body > div > h1:nth-child(1) > a").innerText = "Go back Home";
-  <button onclick="myFunction()">Try it</button>
   function myFunction() {
   var btn = document.createElement("button");
   document.body.appendChild(btn);
