@@ -10,7 +10,9 @@ layout: default
     a.innerText = a.title;
 });
   document.querySelector("body > div > h1:nth-child(1) > a").innerText = "Go back Home";
-  const button = document.createElement("button");
-  button.innerHTML = "Do Something";
-  document.body.appendChild(btn); 
+  <button onclick="myFunction()">Try it</button>
+  function myFunction() {
+  var btn = document.createElement("button");
+  document.body.appendChild(btn);
+  }
 </script>
