@@ -11,11 +11,11 @@ However, as I always do, I started from "what the final product looks like in my
 Now I will look into the meaning of them:
 -   <span style="color:blue">**Blue**</span>: Intelligence, wisdom, integrity, leadership, authority, truth, peace, loyalty, reliability, confidence, hope, clarity, communication, imagination
     -   ok, approved ✅
--  <span style="color:yellow">**Yellow**</span>: Sunshine, joy, warmth, happiness, caution, warning, vision, intellect, creativity, light, self-motivation, independence
+-  <span style="background-color: #FFFF00"><span style="color:yellow">**Yellow**</span></span>: Sunshine, joy, warmth, happiness, caution, warning, vision, intellect, creativity, light, self-motivation, independence
    -  well, these things sound like horoscopes...
 -  <span style="color:green">**Green**</span>: Growth, rebirth, nature, optimism, spring, change, fertility, relaxation, youth, luck, healing, environment, prosperity, safety
     - Fine, I don't know if it can live with blue btw
 - <span style="color:red">**Red**</span>: Power, attention, love, activity, potency, energy, desire, action, passion, determination, courage, vitality, motivation, playfulness, enthusiasm
   - why am I doing this
 - <span style="color:purple">**Purple**</span>: Royalty, ambition, wealth, competition, mystery, spirituality, mysticism, inspiration, magic, dignity, luxury, personal power, self-worth
-    -
+
