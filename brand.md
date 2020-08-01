@@ -1,5 +1,6 @@
 # Brand
 
+
 I'm going to create a _kind of_ a personal brand. Not because I want to push myself out there that much, but because if I post or create anything, I don't want to think "what color should I use? Which font?" every time. 
 I'm definetely not a designer nor a marketer, so I will just record my process of googling things and asking advices to friends about it.
 
