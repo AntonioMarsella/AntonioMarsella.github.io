@@ -11,7 +11,7 @@ However, as I always do, I started from "what the final product looks like in my
 Now I will look into the meaning of them:
 -   <span style="color:blue">**Blue**</span>: Intelligence, wisdom, integrity, leadership, authority, truth, peace, loyalty, reliability, confidence, hope, clarity, communication, imagination
     -   ok, approved ✅
--  <span style="background-color: #FFFF00"><span style="color:yellow">**Yellow**</span></span>: Sunshine, joy, warmth, happiness, caution, warning, vision, intellect, creativity, light, self-motivation, independence
+-  <span style="background-color: #000000"><span style="color:yellow">**Yellow**</span></span>: Sunshine, joy, warmth, happiness, caution, warning, vision, intellect, creativity, light, self-motivation, independence
    -  well, these things sound like horoscopes...
 -  <span style="color:green">**Green**</span>: Growth, rebirth, nature, optimism, spring, change, fertility, relaxation, youth, luck, healing, environment, prosperity, safety
     - Fine, I don't know if it can live with blue btw
