@@ -9,13 +9,13 @@ I'm definetely not a designer nor a marketer, so I will just record my process o
 It seems that every color has a meaning, and they say to choose something that reflects what I want to communicate. 
 However, as I always do, I started from "what the final product looks like in my mind". It's not yet well defined, but definetely I can see a vivid blue, and some juggling balls where yellow, green and red or purple is visible.
 Now I will look into the meaning of them:
--   <span style="color:blue">*Blue*</span>: Intelligence, wisdom, integrity, leadership, authority, truth, peace, loyalty, reliability, confidence, hope, clarity, communication, imagination
+-   <span style="color:blue">**Blue**</span>: Intelligence, wisdom, integrity, leadership, authority, truth, peace, loyalty, reliability, confidence, hope, clarity, communication, imagination
     -   ok, approved ✅
--  Yellow: Sunshine, joy, warmth, happiness, caution, warning, vision, intellect, creativity, light, self-motivation, independence
+-  <span style="color:yellow">**Yellow**</span>: Sunshine, joy, warmth, happiness, caution, warning, vision, intellect, creativity, light, self-motivation, independence
    -  well, these things sound like horoscopes...
--  Green: Growth, rebirth, nature, optimism, spring, change, fertility, relaxation, youth, luck, healing, environment, prosperity, safety
+-  <span style="color:green">**Green**</span>: Growth, rebirth, nature, optimism, spring, change, fertility, relaxation, youth, luck, healing, environment, prosperity, safety
     - Fine, I don't know if it can live with blue btw
-- Red: Power, attention, love, activity, potency, energy, desire, action, passion, determination, courage, vitality, motivation, playfulness, enthusiasm
+- <span style="color:red">**Red**</span>: Power, attention, love, activity, potency, energy, desire, action, passion, determination, courage, vitality, motivation, playfulness, enthusiasm
   - why am I doing this
-- Purple: Royalty, ambition, wealth, competition, mystery, spirituality, mysticism, inspiration, magic, dignity, luxury, personal power, self-worth
-  - 
+- <span style="color:purple">**Purple**</span>: Royalty, ambition, wealth, competition, mystery, spirituality, mysticism, inspiration, magic, dignity, luxury, personal power, self-worth
+    -
