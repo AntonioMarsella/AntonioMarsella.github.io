@@ -8,7 +8,7 @@
 - I've been Visiting Research Student in Computer Vision @[University of Genoa](https://unige.it/it/) working at Cross View Action Recognition
 - Currently working @[Aptus.AI](https://aptus.ai) as Machine Learning Scientist
   
-CV apart, I'm interested in Learning in general, Systems Thinking and Juggling.
+CV apart, I'm interested in Learning in general, Systems Thinking and Juggling 🤹.
 
 ## What this is about
 
